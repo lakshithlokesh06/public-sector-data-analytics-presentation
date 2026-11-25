@@ -11,7 +11,7 @@ The case follows:
 - **New Leviathan** — a city facing economic decline, rising violent crime, racial tensions, and budget pressure.
 - **Mayor Thalia Hobbes** — wants to reduce crime using limited public resources.
 - **Wales Consulting Group (WCG)** — proposes a data-driven approach through its Public-Sector Division.
-- **AI and Data Analytics System** — uses existing city records, social network analysis, AI, and machine learning to identify patterns and people potentially at risk of crime involvement.
+- **AI and Data Analytics System** — uses existing city records, social network analysis, AI, and machine learning to identify relationships, patterns, and potential risks.
 
 The project initially focused on identifying potential victims and recommending social support services. It was later expanded toward identifying potential perpetrators and involving law enforcement, creating significant ethical concerns.
 
@@ -24,11 +24,11 @@ The project initially focused on identifying potential victims and recommending 
 | 3 | The Crime Problem in New Leviathan | Completed |
 | 4 | WCG’s Data Analytics Solution | Completed |
 | 5 | Data Used for Crime Prediction | Completed |
-| 6 | How the AI System Works | In progress |
-| 7 | Impact and Results | Planned |
-| 8 | Ethical Issues and Concerns | Planned |
-| 9 | Debate: AI, Privacy and Public Safety | Planned |
-| 10 | Conclusion — Key Takeaways | Planned |
+| 6 | How the AI System Works | Completed |
+| 7 | Impact and Results | Completed |
+| 8 | Ethical Issues and Concerns | Completed |
+| 9 | Debate: AI, Privacy and Public Safety | Completed |
+| 10 | Conclusion — Key Takeaways | Completed |
 
 ## Key Data Sources Mentioned in the Case
 
@@ -75,7 +75,7 @@ The case raises several important questions about the use of AI in public-sector
 
 ## Presentation Approach
 
-The presentation uses a modern, clean visual style with a dark and sophisticated design.
+The presentation uses a modern, clean light editorial design with a sophisticated and consistent visual identity.
 
 The slides focus on:
 
@@ -86,8 +86,42 @@ The slides focus on:
 - Consistent visual identity across slides
 - No unnecessary stock imagery
 - No unsupported statistics or claims
+- Clear distinction between the case-study evidence and interpretation
 
-Flowcharts are intentionally not included in the slides. Process explanations will be demonstrated separately on the board during the presentation.
+Flowcharts are intentionally not included in the slides. Process explanations are demonstrated separately on the board during the presentation.
+
+## Board Flowcharts
+
+Two process flows are explained on the board during the presentation.
+
+### Slide 4 — Purpose of the System
+
+```text
+WCG → AI + ML → SNA → Human Analysts → Identify People at Risk → Social Support
+```
+
+This explains the purpose and intended use of the proposed system.
+
+### Slide 6 — Working Process
+
+```text
+City Records + Social Media → Relationships & Patterns → SNA + AI/ML → Risk Estimate → Human Review → Decision
+```
+
+This explains how information moves from existing data sources toward a risk estimate and subsequent human review.
+
+## Key Takeaways
+
+The presentation highlights four main lessons from the case:
+
+1. **Data can support public safety**
+2. **Accuracy is not certainty**
+3. **Transparency matters**
+4. **Human values must remain part of the decision**
+
+The overall message of the case is:
+
+> **The challenge is not only what AI can predict, but how those predictions are used.**
 
 ## Source
 
@@ -107,25 +141,22 @@ Public Sector Data Analytics/
 └── README.md
 ```
 
-## Current Progress
+## Final Progress
 
-**5 / 10 slides completed**
+**10 / 10 slides completed**
 
 Completed:
 
-- Slide 1 — Title
+- Slide 1 — Public Sector Data Analytics
 - Slide 2 — Case Study Overview
 - Slide 3 — The Crime Problem in New Leviathan
 - Slide 4 — WCG’s Data Analytics Solution
 - Slide 5 — Data Used for Crime Prediction
-
-Next:
-
 - Slide 6 — How the AI System Works
 - Slide 7 — Impact and Results
 - Slide 8 — Ethical Issues and Concerns
 - Slide 9 — Debate: AI, Privacy and Public Safety
-- Slide 10 — Conclusion
+- Slide 10 — Conclusion — Key Takeaways
 
 ## GitHub
 
@@ -136,7 +167,3 @@ Repository:
 Current branch:
 
 `main`
-
-Latest commit:
-
-`6782b68 — Add slides 1-5 for public sector data analytics case study`
